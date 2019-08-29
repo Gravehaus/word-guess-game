@@ -83,6 +83,8 @@ var characters= [
 
       /*/*BEGINNING WORD VARIABLES AND RANDOM WORD GENERATOR
 
+PUSH PUSH PUSH
+
     function Game() {
 
         //Words to guess
