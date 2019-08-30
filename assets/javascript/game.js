@@ -1,4 +1,7 @@
 
+
+///I'm pretty bummed that I spent a lot of time on this and through tutoring and several tutorials, I'm still struggling with these concepts. I had a really good idea set up for this but I just can get the hang of javascript so I think it's back to the drawing board for me.///
+
 const word = ["samus aran", "link", "pikachu", "nemesis","donkey kong", "chun li", "chocobo", "scorpion", "mario", "fox"]; 
 //Choose word randonly     
 let randNum = Math.floor(Math.random() * word.length);
